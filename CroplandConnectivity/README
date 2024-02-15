@@ -1,1 +1,3 @@
+CCRI_Ethiopia.R is the cropland connectivity analyses used to analyze the potato and sweetpotato plot in R. Users will need to select which crop they are interested in.
 
+map_grey_background.tif is used to generate a background tif for visualizing the CCRI plots
